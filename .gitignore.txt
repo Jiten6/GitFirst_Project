@@ -1,0 +1,9 @@
+bin/
+obj/
+PDF Reports/
+.vs/
+*.user
+*.suo
+*.log
+appsettings.Development.json
+node_modules/
